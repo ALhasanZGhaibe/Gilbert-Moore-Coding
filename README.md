@@ -20,4 +20,3 @@ For any question you can email me at: <br/>
 <a href = "mailto: hsnzag@gmail.com">Eng.ALhasan Zghaibe</a><br/>
 hsnzag@gmail.com<br/>
 <br/>
-Thanks for Reading.<br/>
