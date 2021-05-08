@@ -1,6 +1,6 @@
 # Gilbert-Moore-Coding<br/>
 <br/>
-Gilbert Moore Coding Implementaion through a clean dry code.<br/>
+Gilbert Moore Coding Implementaion through a clean and dry code.<br/>
 <br/>
 Inputs are:<br/>
 1-The probabilty list (p).<br/>
