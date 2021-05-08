@@ -2,7 +2,7 @@
 <br/>
 Gilbert Moore Coding Implementaion through a clean dry code.<br/>
 <br/>
-Inputs are:
+Inputs are:<br/>
 1-The probabilty list (p).<br/>
 2=The number of code words (n).<br/><br/>
 Takes input from input.txt file.<br/>
