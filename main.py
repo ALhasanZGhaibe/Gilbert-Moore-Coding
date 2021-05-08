@@ -196,18 +196,21 @@ def write_result_to_output_file(p, y, code, ofname):
         sumE += -1 * p[i] * math.log(p[i], len(y))
         sumH += p[i] * len(code[i])
 
-    print(code)
+    #print(code)
     entroupy = sumE
     hSum = sumH
     #  a random variable is the average level of "information"
-    print("Entropy value : ", entroupy)
+    #print("Entropy value : ", entroupy)
+    print("Entropy value : " + str(entroupy) + "\n")
     file2.writelines("Entropy value : " + str(entroupy) + "\n")
     # average code lenght
-    print("h value : ", hSum)
+    #print("h value : ", hSum)
     file2.writelines("H-(average code length) value : " + str(hSum) + "\n")
     effc = entroupy / hSum
+    print()
     print("Efficiency = ", effc * 100, "%")
-    file2.writelines("Entropy value : " + str(entroupy) + "\n")
+    print()
+    file2.writelines("Efficiency = "+str( effc * 100)+ "%")
     # closing the file after writing the result
     file2.close()
 

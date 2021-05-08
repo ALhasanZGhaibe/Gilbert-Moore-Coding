@@ -21,4 +21,4 @@ p[11] code = 44
 
 Entropy value : 1.3700659009175957
 H-(average code length) value : 1.9670000000000005
-Entropy value : 1.3700659009175957
+Efficiency = 69.65256232422956%
