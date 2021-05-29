@@ -17,6 +17,5 @@ Values are separated by comma ','<br/>
 Output results are dumped to the text file "output.txt"<br/>
 <br/>
 For any question you can email me at: <br/>
-<a href = "mailto: hsnzag@gmail.com">Eng.ALhasan Zghaibe</a><br/>
-hsnzag@gmail.com<br/>
+<a href = "mailto: hsnzag@gmail.com">hsnzag@gmail.com<</a><br/>
 <br/>
